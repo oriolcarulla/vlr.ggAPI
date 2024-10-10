@@ -1,4 +1,0 @@
-tqdm
-requests
-BeautifulSoup
-bs4
